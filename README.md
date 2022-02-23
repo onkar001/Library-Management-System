@@ -28,7 +28,6 @@ The main aim of this user module is that readers can request the admin to issue 
     3. Users can also keep track of issued books along with its issued date and return date.
     4. User can update his/her profile and be able to change the user password.
 
-
 ### 🔗 Drive and Repository Links
 * GitHub repo link: https://github.com/onkar001/Library-Management-System
 * Drive link: Admin - https://drive.google.com/file/d/17BLUOYYaRGDSVdi9Rk-_C5IXbFdmtAYg/view
@@ -44,7 +43,6 @@ The main aim of this user module is that readers can request the admin to issue 
 ### 💻 Applications 
 * This system can be used in public libraries. 
 * It can also be implemented in the library of schools, colleges, institutes, and organisations.
-
 
 ### 👨‍💻 Team Members
 1. [Onkar Punwatkar](https://github.com/onkar001)
